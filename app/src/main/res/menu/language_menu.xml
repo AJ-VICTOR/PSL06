@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/EnglishSelection"
+        android:orderInCategory="100"
+        android:title="English" />
+    <item
+        android:id="@+id/italianSelection"
+        android:orderInCategory="101"
+        android:title="Italian" />
+    <item
+        android:id="@+id/RussianSelection"
+        android:orderInCategory="102"
+        android:title="Russian" />
+    <item
+        android:id="@+id/ChineseSelection"
+        android:orderInCategory="103"
+        android:title="Chinese" />
+    <item
+        android:id="@+id/BritishSelection"
+        android:orderInCategory="104"
+        android:title="Bri'ish" />
+</menu>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="Bank1">OCBC</string>
+    <string name="Bank2">DBS</string>
+    <string name="Bank3">UOB</string>
+</resources>
